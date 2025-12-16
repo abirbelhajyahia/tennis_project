@@ -1,0 +1,350 @@
+{
+    "56000": {
+        "x": 499,
+        "y": 294,
+        "visible": true,
+        "action": "air"
+    },
+    "56001": {
+        "x": 517,
+        "y": 333,
+        "visible": true,
+        "action": "air"
+    },
+    "56002": {
+        "x": 538,
+        "y": 372,
+        "visible": true,
+        "action": "air"
+    },
+    "56003": {
+        "x": 547,
+        "y": 403,
+        "visible": true,
+        "action": "air"
+    },
+    "56004": {
+        "x": 564,
+        "y": 430,
+        "visible": true,
+        "action": "air"
+    },
+    "56005": {
+        "x": 590,
+        "y": 458,
+        "visible": true,
+        "action": "air"
+    },
+    "56006": {
+        "x": 604,
+        "y": 487,
+        "visible": true,
+        "action": "air"
+    },
+    "56007": {
+        "x": 622,
+        "y": 518,
+        "visible": true,
+        "action": "air"
+    },
+    "56008": {
+        "x": 638,
+        "y": 547,
+        "visible": true,
+        "action": "air"
+    },
+    "56009": {
+        "x": 659,
+        "y": 571,
+        "visible": true,
+        "action": "air"
+    },
+    "56010": {
+        "x": 676,
+        "y": 584,
+        "visible": true,
+        "action": "air"
+    },
+    "56011": {
+        "x": 687,
+        "y": 613,
+        "visible": true,
+        "action": "hit"
+    },
+    "56012": {
+        "x": 706,
+        "y": 633,
+        "visible": true,
+        "action": "air"
+    },
+    "56013": {
+        "x": 721,
+        "y": 638,
+        "visible": true,
+        "action": "air"
+    },
+    "56014": {
+        "x": 736,
+        "y": 665,
+        "visible": true,
+        "action": "air"
+    },
+    "56015": {
+        "x": 756,
+        "y": 678,
+        "visible": true,
+        "action": "air"
+    },
+    "56016": {
+        "x": 773,
+        "y": 691,
+        "visible": true,
+        "action": "air"
+    },
+    "56017": {
+        "x": 790,
+        "y": 714,
+        "visible": true,
+        "action": "air"
+    },
+    "56018": {
+        "x": 813,
+        "y": 738,
+        "visible": true,
+        "action": "air"
+    },
+    "56019": {
+        "x": 827,
+        "y": 748,
+        "visible": true,
+        "action": "air"
+    },
+    "56020": {
+        "x": 847,
+        "y": 752,
+        "visible": true,
+        "action": "air"
+    },
+    "56021": {
+        "x": 858,
+        "y": 760,
+        "visible": true,
+        "action": "air"
+    },
+    "56022": {
+        "x": 884,
+        "y": 760,
+        "visible": true,
+        "action": "air"
+    },
+    "56023": {
+        "x": 897,
+        "y": 769,
+        "visible": true,
+        "action": "air"
+    },
+    "56024": {
+        "x": 918,
+        "y": 776,
+        "visible": true,
+        "action": "air"
+    },
+    "56025": {
+        "x": 929,
+        "y": 780,
+        "visible": true,
+        "action": "air"
+    },
+    "56026": {
+        "x": 952,
+        "y": 803,
+        "visible": true,
+        "action": "air"
+    },
+    "56027": {
+        "x": 962,
+        "y": 806,
+        "visible": true,
+        "action": "air"
+    },
+    "56028": {
+        "x": 978,
+        "y": 807,
+        "visible": true,
+        "action": "air"
+    },
+    "56029": {
+        "x": 999,
+        "y": 798,
+        "visible": true,
+        "action": "air"
+    },
+    "56030": {
+        "x": 1014,
+        "y": 798,
+        "visible": true,
+        "action": "air"
+    },
+    "56031": {
+        "x": 1030,
+        "y": 806,
+        "visible": true,
+        "action": "air"
+    },
+    "56032": {
+        "x": 1054,
+        "y": 790,
+        "visible": true,
+        "action": "air"
+    },
+    "56033": {
+        "x": 1073,
+        "y": 798,
+        "visible": true,
+        "action": "air"
+    },
+    "56034": {
+        "x": 1086,
+        "y": 786,
+        "visible": true,
+        "action": "air"
+    },
+    "56035": {
+        "x": 1103,
+        "y": 772,
+        "visible": true,
+        "action": "air"
+    },
+    "56036": {
+        "x": 1122,
+        "y": 762,
+        "visible": true,
+        "action": "air"
+    },
+    "56037": {
+        "x": 1137,
+        "y": 751,
+        "visible": true,
+        "action": "air"
+    },
+    "56038": {
+        "x": 1159,
+        "y": 744,
+        "visible": true,
+        "action": "air"
+    },
+    "56039": {
+        "x": 1172,
+        "y": 745,
+        "visible": true,
+        "action": "air"
+    },
+    "56040": {
+        "x": 1185,
+        "y": 734,
+        "visible": true,
+        "action": "air"
+    },
+    "56041": {
+        "x": 1203,
+        "y": 708,
+        "visible": true,
+        "action": "air"
+    },
+    "56042": {
+        "x": 1220,
+        "y": 694,
+        "visible": true,
+        "action": "air"
+    },
+    "56043": {
+        "x": 1246,
+        "y": 674,
+        "visible": true,
+        "action": "air"
+    },
+    "56044": {
+        "x": 1260,
+        "y": 662,
+        "visible": true,
+        "action": "air"
+    },
+    "56045": {
+        "x": 1270,
+        "y": 656,
+        "visible": true,
+        "action": "air"
+    },
+    "56046": {
+        "x": 1296,
+        "y": 631,
+        "visible": true,
+        "action": "air"
+    },
+    "56047": {
+        "x": 1312,
+        "y": 609,
+        "visible": true,
+        "action": "air"
+    },
+    "56048": {
+        "x": 1328,
+        "y": 578,
+        "visible": true,
+        "action": "bounce"
+    },
+    "56049": {
+        "x": 1340,
+        "y": 572,
+        "visible": true,
+        "action": "air"
+    },
+    "56050": {
+        "x": 1364,
+        "y": 536,
+        "visible": true,
+        "action": "air"
+    },
+    "56051": {
+        "x": 1384,
+        "y": 504,
+        "visible": true,
+        "action": "air"
+    },
+    "56052": {
+        "x": 1399,
+        "y": 487,
+        "visible": true,
+        "action": "air"
+    },
+    "56053": {
+        "x": 1408,
+        "y": 466,
+        "visible": true,
+        "action": "air"
+    },
+    "56054": {
+        "x": 1435,
+        "y": 430,
+        "visible": true,
+        "action": "air"
+    },
+    "56055": {
+        "x": 1445,
+        "y": 399,
+        "visible": true,
+        "action": "air"
+    },
+    "56056": {
+        "x": 1465,
+        "y": 356,
+        "visible": true,
+        "action": "air"
+    },
+    "56057": {
+        "x": 1485,
+        "y": 329,
+        "visible": true,
+        "action": "air"
+    }
+}
